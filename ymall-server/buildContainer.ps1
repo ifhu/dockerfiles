@@ -1,0 +1,1 @@
+docker run --name ymall_server_prod -d -p 8080:8080 -v D:/ymall:/ymall ymall_server:server 
